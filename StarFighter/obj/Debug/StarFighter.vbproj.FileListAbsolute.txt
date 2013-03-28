@@ -1,0 +1,52 @@
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\bin\Debug\StarFighter.exe
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\bin\Debug\StarFighter.pdb
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\bin\Debug\StarFighter.xml
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\obj\Debug\StarFighter.frmStarFighter.resources
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\obj\Debug\StarFighter.Resources.resources
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\obj\Debug\StarFighter.vbproj.GenerateResource.Cache
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\obj\Debug\StarFighter.exe
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\obj\Debug\StarFighter.xml
+C:\Users\Jeff Simon\Documents\Visual Studio 2008\Projects\StarFighter\StarFighter\obj\Debug\StarFighter.pdb
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.exe
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.xml
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.pdb
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.frmStarfighter.resources
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.Resources.resources
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.exe
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.pdb
+C:\Documents and Settings\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.xml
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.exe
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.xml
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.pdb
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.exe
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.pdb
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.xml
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\ResolveAssemblyReference.cache
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.frmStarfighter.resources
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.Resources.resources
+\\Itiapp1\departments\Information Technology\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.vbproj.GenerateResource.Cache
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.exe
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.xml
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.pdb
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.exe
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.pdb
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.xml
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\ResolveAssemblyReference.cache
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.frmStarfighter.resources
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.Resources.resources
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Instructors\Fischer\Programming\Jeff's StarFighterVb\StarFighter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.exe
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.xml
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.pdb
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.exe
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.pdb
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\bin\Debug\StarFighter.xml
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.frmStarfighter.resources
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\StarFighter.Resources.resources
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jfischer\Desktop\Jeff's StarFighterVb\StarFighter\obj\Debug\GenerateResource-ResGen.write.1.tlog
